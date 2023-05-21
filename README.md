@@ -1,13 +1,13 @@
 Hi 👋 My name is Rod McCutcheon
 ===============================
 
-Software Engineer/Architect
+Senior Software Engineer
 ---------------------------
 
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [rodmccutcheon@gmail.com](mailto:rodmccutcheon@gmail.com)
-* 🚀  I'm currently working on [Organic Response by OR Technologies](http://organicresponse.com)
-* 🧠  I'm learning functional programming with Clojure
+* 🚀  I'm currently working at [Vintrace](https://www.vintrace.com) building wine production software
+* 🧠  I'm learning functional programming with Clojure, and Rust
 
 ### Skills
 
