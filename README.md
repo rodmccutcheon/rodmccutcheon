@@ -6,7 +6,7 @@ Senior Software Engineer
 
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [rodmccutcheon@gmail.com](mailto:rodmccutcheon@gmail.com)
-* 🚀  I'm currently working at [Vintrace](https://www.vintrace.com) building wine production software
+* 🚀  I'm currently working at [Milanote](https://milanote.com) building a world class tool where creative people plan and organise their most important projects.
 * 🧠  I'm learning functional programming with Clojure, and Rust
 
 ### Skills
