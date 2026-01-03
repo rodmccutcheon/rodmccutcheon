@@ -5,7 +5,7 @@ Senior Software Engineer
 ---------------------------
 
 * 🌍  I'm based in Melbourne, Australia
-* ✉️  You can contact me at [rodmccutcheon@gmail.com](mailto:rodmccutcheon@gmail.com)
+* ✉️  You can contact me at [rodmccutcheon@pm.me](mailto:rodmccutcheon@pm.me)
 * 🚀  I'm currently working at [E1](https://estimateone.com/)
 * 🧠  I'm learning functional programming with Clojure
 
